@@ -6,7 +6,7 @@
   <link href="https://blog.xiaohe520.xyz/atom.xml" rel="self"/>
   
   <link href="https://blog.xiaohe520.xyz/"/>
-  <updated>2022-10-23T14:00:00.000Z</updated>
+  <updated>2024-09-30T17:56:19.957Z</updated>
   <id>https://blog.xiaohe520.xyz/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试</title>
+    <link href="https://blog.xiaohe520.xyz/posts/9daba997.html"/>
+    <id>https://blog.xiaohe520.xyz/posts/9daba997.html</id>
+    <published>2024-09-30T17:54:27.827Z</published>
+    <updated>2024-09-30T17:56:19.957Z</updated>
+    
+    <content type="html"><![CDATA[<p>测试</p>]]></content>
+    
+    
+    <summary type="html">test</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Markdown语法与外挂标签写法汇总</title>
